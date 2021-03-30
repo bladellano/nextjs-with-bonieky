@@ -16,6 +16,16 @@
   align-items: center;
 }
 
+.main ul,
+.main li {
+  list-style: none;
+  margin: 0;
+}
+.main li {
+  display: inline-block;
+  margin: 20px;
+}
+
 .footer {
   width: 100%;
   height: 100px;
